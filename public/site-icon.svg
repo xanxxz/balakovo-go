@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Знак balakovo-go.ru">
+  <rect width="64" height="64" rx="14" fill="#183d32"/>
+  <path d="M20 13v38M20 36c0-8.5 5.7-14 13.6-14C42 22 48 28 48 36.5S42 51 33.6 51C25.7 51 20 45.4 20 37" fill="none" stroke="#f4f1e9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="35" cy="36.5" r="4.2" fill="#c7d36a"/>
+</svg>
